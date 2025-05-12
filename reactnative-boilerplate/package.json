@@ -1,0 +1,8 @@
+{
+  "name": "RNBoilerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://bitbucket.org/Mindbowser/reactnative-boilerplate",
+  "author": "Shivangi Agrawal",
+  "license": "MIT"
+}
